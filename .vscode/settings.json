@@ -1,0 +1,9 @@
+{
+    "editor.cursorBlinking": "expand",
+    "emmet.preferences": {
+
+    },
+    "emmet.showAbbreviationSuggestions": true,
+    "emmet.showExpandedAbbreviation": "always",
+    "emmet.showSuggestionsAsSnippets": true
+}
